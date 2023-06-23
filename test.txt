@@ -1,0 +1,2 @@
+aws_access_key_id="ADFAAFFEC"
+https://kms-technology.com
